@@ -1,8 +1,9 @@
 ### Hi, my name is Isac Souza Filho 👋
-### I'm a fullstack devepoler and father of two princess
-### Currently studying in a bootcamp at Digital House
-### Nice to meet you!
-### If you want to know about my projects and works, feel free to open my repositories.
+### I'm a fullstack devepoler and father of two princess :smiling_face_with_three_hearts:
+### Currently studying in a bootcamp at Digital House. :nerd_face:
+### Nice to meet you! :grin:
+### If you want to know about my projects and works
+### feel free to open my repositories.
 
 <!--
 **souzafilhoisac/souzafilhoisac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
