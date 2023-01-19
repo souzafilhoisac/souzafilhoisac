@@ -1,5 +1,5 @@
 ### Hi, my name is Isac Souza Filho 👋
-### I'm a fullstack devepoler and father of two princess :smiling_face_with_three_hearts:
+### I'm a backend devepoler and father of two princess :smiling_face_with_three_hearts:
 ### Nice to meet you! :grin:
 ### If you want to know about my projects and works
 ### feel free to open my repositories.
@@ -19,12 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-
- <div>
-  <a https://github.com/souzafilhoisac">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=souzafilhoisac&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzafilhoisac&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 </div>
 <div style="display: inline_block"><br>
